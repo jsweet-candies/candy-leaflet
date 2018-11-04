@@ -4,7 +4,6 @@ public interface StringTypes {
  * Generated to type the string "nonzero".
  * @exclude
  */
-    @jsweet.lang.StringType
     public interface nonzero {
     }
     /**
@@ -17,7 +16,6 @@ public interface StringTypes {
  * Generated to type the string "evenodd".
  * @exclude
  */
-    @jsweet.lang.StringType
     public interface evenodd {
     }
     /**
@@ -30,7 +28,6 @@ public interface StringTypes {
  * Generated to type the string "inherit".
  * @exclude
  */
-    @jsweet.lang.StringType
     public interface inherit {
     }
     /**
@@ -43,7 +40,6 @@ public interface StringTypes {
  * Generated to type the string "center".
  * @exclude
  */
-    @jsweet.lang.StringType
     public interface center {
     }
     /**

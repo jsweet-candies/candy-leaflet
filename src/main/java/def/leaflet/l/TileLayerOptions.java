@@ -23,6 +23,5 @@ public abstract class TileLayerOptions extends GridLayerOptions {
     public Boolean detectRetina;
     @jsweet.lang.Optional
     public Boolean crossOrigin;
-    native public <T> T $get(String name);
 }
 
